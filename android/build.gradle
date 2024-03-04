@@ -43,4 +43,6 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace "com.MAHAulia.device_imei"
 }
